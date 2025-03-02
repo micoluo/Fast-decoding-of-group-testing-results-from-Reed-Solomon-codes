@@ -2,7 +2,9 @@
 
 This repository contains the Java code used in the research paper titled **"Fast Decoding of Group Testing Results from Reed-Solomon d-Disjunct Matrices"** by **Dongxia (Mico) Luo** and **Lucia Moura**. 
 
-The paper has been accepted for presentation at the **International Workshop on the Arithmetic of Finite Fields (WAIFI 2024)** and will be published in **Lecture Notes in Computer Science (LNCS)**.
+The paper has been accepted for presentation at the **International Workshop on the Arithmetic of Finite Fields (WAIFI 2024)** and has been **published in Lecture Notes in Computer Science (LNCS)**.  
+
+Read it here: [https://link.springer.com/chapter/10.1007/978-3-031-81824-0_4](https://link.springer.com/chapter/10.1007/978-3-031-81824-0_4) 
 
 ## Paper Abstract
 
